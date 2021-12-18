@@ -2,18 +2,16 @@
 		
   Microsoft Windows 10 x64
                                                
-  Driver Revision: 20.21.1.6464 (4459 Mod)
+  Driver Revision: 20.21.1.6464
   January 1, 2021
 
   Release Notes :
 
-  1 An accelerated modification by : nIGHTmAYOR
-  2 This modification fixes issues like :
-	a. Absence of Intel Control Panel on Windows 10
-	b. Fixed crashes after resuming from sleep or hibernation
-        d. Fixed crashing OpenGL32 apps crashing
-	e. Inclusion of Intel's CPU OpenCL Runtime
-	f. Absence of Power Options support
+	1. Absence of Intel Control Panel on Windows 10
+	2. Fixed crashes after resuming from sleep or hibernation
+        3. Fixed crashing OpenGL32 apps crashing
+	4. Inclusion of Intel's CPU OpenCL Runtime
+	5. Absence of Power Options support
 
 * Intel Specifications 
 
