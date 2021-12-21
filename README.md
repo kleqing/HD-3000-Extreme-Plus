@@ -1,4 +1,7 @@
-# HD-3000-Extreme-Plus
+# Intel HD 2000/3000 Extreme Plus
+
+* Driver was moded by nIGHTmAYOR
+* For the original downloads, go to this [link](https://www.tenforums.com/graphic-cards/166291-custom-driver-intel-hd-graphics-2000-3000-extreme-plus-nighmayor.html)
 
 ## ⚠️ This is a tool that it will install the Intel(R) HD Graphics Family driver to your computer.
 
